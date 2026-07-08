@@ -22,6 +22,9 @@ Although this project does not connect to the real Gemini API, it is designed to
 
 ---
 
+## Project Structure
+
+```text
 my-project/
 │
 ├── diagrams/
@@ -33,7 +36,7 @@ my-project/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## Installation
