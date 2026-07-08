@@ -21,6 +21,7 @@ Although this project does not connect to the real Gemini API, it is designed to
 * Simple and easy-to-understand code
 
 ---
+
 my-project/
 │
 ├── diagrams/
@@ -33,6 +34,7 @@ my-project/
 ├── README.md
 └── .gitignore
 
+---
 
 ## Installation
 
