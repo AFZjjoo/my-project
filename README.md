@@ -21,20 +21,18 @@ Although this project does not connect to the real Gemini API, it is designed to
 * Simple and easy-to-understand code
 
 ---
-
-## Project Structure
-
-```
 my-project/
+│
+├── diagrams/
+│   ├── use_case_diagram.png
+│   └── flowchart.png
 │
 ├── main.py
 ├── setup.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-```
 
----
 
 ## Installation
 
